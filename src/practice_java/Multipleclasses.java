@@ -39,7 +39,7 @@ class SportMan{
 	}
 }
 
-class Testcase{
+class TestCase{
 	String name;
 	String description;
 	String status;
@@ -49,7 +49,7 @@ class Testcase{
 	}
 }
 
-class Cupboard{
+class CupBoard{
 	String type;
 	String shape;
 	String color;
@@ -64,7 +64,7 @@ class Cupboard{
 	
 }
 
-class Smartphone{
+class SmartPhone{
 	String brand;
 	String model;
 	String color;
@@ -126,3 +126,4 @@ class Teacher{
 	 
  }
 	 }
+ 
